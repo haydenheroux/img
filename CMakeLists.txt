@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.25...4.1)
 
 project(
-    Img++
+    Img
     VERSION 0.0
     DESCRIPTION "Image processing algorithms in C++"
     LANGUAGES CXX
